@@ -14,7 +14,7 @@ public class HelloWorldActivity extends AppCompatActivity {
         setContentView(R.layout.activity_hello_world);
 
         Button nextButton = (Button) findViewById(R.id.btnNext);
-        nextButton.SetOnClickListener(new View.OnClickListener() {
+        nextButton.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick (View view) {
