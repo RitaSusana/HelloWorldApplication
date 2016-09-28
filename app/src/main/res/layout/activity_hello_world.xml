@@ -18,5 +18,5 @@
         android:layout_alignParentEnd="true"
         android:layout_marginEnd="117dp"
         android:layout_marginTop="84dp"
-        android:id="@+id/button" />
+        android:id="@+id/btnNext" />
 </RelativeLayout>
